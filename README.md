@@ -9,7 +9,11 @@ Se probó la funcionalidad de compartir un automóvil en 2 entornos: Google Chro
 5. Probé los casos de la lista de comprobación para el diseño del formurmulario de reserva en los navegadores con resolución:
 
    - Google Chrome 800x600
+     <img width="1335" height="805" alt="map chrome view" src="https://github.com/user-attachments/assets/94b0bd7b-36c6-4b0e-a28c-f96592a45d89" />
+
    - Firefox 1920x1080
+     <img width="1559" height="815" alt="firefox view" src="https://github.com/user-attachments/assets/eb7830c3-498c-4ad8-bcbc-ece6f248004f" />
+
 6. Encontré bugs y comportamientos inesperados, los cuales documente en un informe de errores creado en Jira
 
 # Fecha de creación
